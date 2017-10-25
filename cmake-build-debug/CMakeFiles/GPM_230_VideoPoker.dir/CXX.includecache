@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/Deck.cpp
+Deck.h
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/Deck.h
+
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/Deck.h
+ctime
+-
+cstdlib
+-
+
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/HandChecker.cpp
+HandChecker.h
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/HandChecker.h
+
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/HandChecker.h
+Deck.h
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/Deck.h
+iostream
+-
+
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/VideoPoker.cpp
+VideoPoker.h
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/VideoPoker.h
+cstdio
+-
+
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/VideoPoker.h
+Deck.h
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/Deck.h
+HandChecker.h
+/Users/moecia/OneDrive/15_GPM/2017Q1/GAME230/Project3/GAME-230-VideoPoker/GAME-230-VideoPoker/HandChecker.h
+string
+-
+iostream
+-
+
