@@ -1,0 +1,7 @@
+﻿  VideoPoker.cpp
+d:\onedrive\15_gpm\2017q1\game230\project3\game-230-videopoker\videopoker.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\onedrive\15_gpm\2017q1\game230\project3\game-230-videopoker\videopoker.cpp(191): warning C4101: 'e': unreferenced local variable
+  Deck.cpp
+  Generating Code...
+  GAME-230-VideoPoker.vcxproj -> D:\OneDrive\15_GPM\2017Q1\GAME230\Project3\GAME-230-VideoPoker\x64\Debug\GAME-230-VideoPoker.exe
+  GAME-230-VideoPoker.vcxproj -> D:\OneDrive\15_GPM\2017Q1\GAME230\Project3\GAME-230-VideoPoker\x64\Debug\GAME-230-VideoPoker.pdb (Partial PDB)

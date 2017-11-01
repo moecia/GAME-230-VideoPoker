@@ -34,6 +34,7 @@ int main()
 		newRound();
 	}
 	// When money runs out, print game over.
+	freeGameDecks();
 	cout << "GAME OVER!" << endl;
 	system("PAUSE");
 	return 0;
